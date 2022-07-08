@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 22a5cd1f76fa3d34e8fd12103aeedcd5
+=======
+guid: bf10afc343459224880189a96b36c103
+>>>>>>> parent of d997f5d (rename)
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
