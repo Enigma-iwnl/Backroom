@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: -82291597, guid: b756cd77d40dc61409e6c5eb9d0d808d, type: 3}
   m_Name: SceneFusionConfig
   m_EditorClassIdentifier: 
-  ShowGettingStartedScreen: 1
+  ShowGettingStartedScreen: 0
   UI:
     ShowOnlineIndicator: 1
     ShowCollaboratorCamera: 1
@@ -25,4 +25,4 @@ MonoBehaviour:
     OverrideServerPort: 0
   Debug: 1
   LastVersion: 1.9.3
-  m_projectId: -1
+  m_projectId: 7985
